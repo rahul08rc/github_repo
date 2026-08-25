@@ -1,2 +1,3 @@
 # github_repo
-GITHUB repo
+GITHUB repo.
+Author: Rahul Chakraborty
